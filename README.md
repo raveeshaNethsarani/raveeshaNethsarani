@@ -1,6 +1,6 @@
 # Hi, I'm Raveesha Nethsarani 👋
 
-### Full-Stack Engineer | Go • Node.js • React • Next.js
+### <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Go+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;Building+Scalable+Web+Applications;Backend+%26+API+Engineering" alt="Typing SVG" /> </p>
 
 I'm a Full-Stack Engineer focused on building modern web applications, backend services, and reliable APIs.
 
