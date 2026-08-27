@@ -21,31 +21,27 @@ Currently, I'm deepening my backend engineering skills with **Go, REST APIs, Pos
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js,tailwind,go,nodejs,express,postgres,mongodb,git,github,docker,postman,netlify&perline=6" alt="Tech Stack" /> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Database;Building+Modern+Web+Applications;Learning+Go+%26+Backend+Engineering" alt="Tech Stack Animation" /> </p>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,js,tailwind" /> </p>
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=go,nodejs,express" /> </p>
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> </p>
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,netlify" /> </p>
 
 ---
 
