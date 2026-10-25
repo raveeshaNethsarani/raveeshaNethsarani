@@ -43,7 +43,14 @@ Currently, I'm deepening my backend engineering skills with **Go, REST APIs, Pos
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,netlify" /> </p>
 
----
+### Workflow Automation
+
+<p>
+  <a href="https://n8n.io/">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" />
+  </a>
+</p>
+
 
 ## 🚀 Featured Projects
 
