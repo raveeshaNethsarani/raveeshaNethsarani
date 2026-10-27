@@ -54,6 +54,14 @@ Currently, I'm deepening my backend engineering skills with **Go, REST APIs, Pos
 
 ## 🚀 Featured Projects
 
+### 🤖 AI Career Intelligence Platform
+
+**Next.js • TypeScript • Tailwind CSS • PostgreSQL • n8n • AI**
+
+An AI-powered career intelligence platform designed to automate job discovery, evaluate job-to-profile compatibility, and track job applications. Features a PostgreSQL database for candidate profiles, job listings, matching scores, and application tracking, with n8n workflows for automation.
+
+🔗 [View Repository](https://github.com/raveeshaNethsarani/ai-career-intelligence)
+
 ### 🛋️ Aura Furniture
 
 **Next.js • TypeScript • Tailwind CSS**
@@ -80,7 +88,7 @@ A full-stack book-sharing application built with the MERN stack for sharing and 
 
 A full-stack animal clinic management application developed using the MERN stack as a final-year project.
 
-🔗 [View Repository](https://github.com/raveeshaNethsarani/-Animal-Clinic)
+🔗 [View Repository](https://github.com/ROYAL-ANIMAL-CLINIC)
 
 ---
 
